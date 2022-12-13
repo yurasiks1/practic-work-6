@@ -28,19 +28,19 @@ h2{
     font-style: italic;
 }
 a:link,  A {
-    color: #0000FF;
+    color: #5361FF;
     }
    A:visited {
-    color: #0000FF;
+    color: #61FF12;
     }
    A:hover {
-    color: #FF00FF;
+    color: #FF55FF;
     }
    A:active {
-    color: #ffff00;
+    color: #62ff24;
     }
 p{
-    background-color: #fbff00;
+    background-color: #fbff51;
 }
 .to-content{
     font-weight: bold;
