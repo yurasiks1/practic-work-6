@@ -1,0 +1,29 @@
+@media (min-width: 992px){
+    .title-of-table{
+        font-size: 130%;
+    }
+
+    .tr-1, .tr-2{
+        font-size: 120%;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 992px){
+    .title-of-table{
+        font-size: 120%;
+    }
+
+    .tr-1, .tr-2{
+        font-size: 110%;
+    }
+}
+
+@media (max-width: 768px){
+    .title-of-table{
+        font-size: 110%;
+    }
+}
+th { background: green; color: black; }
+h1{
+    font-size:22px;
+}

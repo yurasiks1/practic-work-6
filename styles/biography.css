@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.row{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+article{
+    font-size: 120%;
+    border: 1px solid;
+    background-color: #1084f0;
+}
+h1, h2, h3{
+    text-align: center;
+}
+h1{
+    font-size: 22px;
+}
+h2{
+    font-size: 120%;
+}
+.back_to_index{
+    font-style: italic;
+}
+a:link,  A {
+    color: #0000FF;
+    }
+   A:visited {
+    color: #0000FF;
+    }
+   A:hover {
+    color: #FF00FF;
+    }
+   A:active {
+    color: #ffff00;
+    }
+p{
+    background-color: #fbff00;
+}
+.to-content{
+    font-weight: bold;
+}
+.to-scroll-up{
+    text-transform: uppercase;
+}
